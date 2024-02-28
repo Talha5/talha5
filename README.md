@@ -19,8 +19,6 @@ Like My Work?
 
 - 🛠 &nbsp; I’m currently working with Ruby on Rails, Nodejs, Express, React, <br /> Graphql, Mongodb, Javascript, etc.
 - 👾 &nbsp; Fun fact: Equal is Not Always Equal in Javascript.
-- 📫 &nbsp; How to reach me: ch.talhamehmood@gmail.com.
-- 📝 &nbsp; Checkout my [Resume](https://github.com/talha5/talha5/blob/master/resume.pdf).
 
 ### My Absolute Favorites:
 
